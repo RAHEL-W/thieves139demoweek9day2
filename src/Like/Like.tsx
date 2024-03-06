@@ -7,6 +7,9 @@ const Like = () => {
 
     const [liked, setLiked] = useState(true);
     const  Click = () => {
+        
+        console.log( !liked ? 'unlike': 'like');
+
         setLiked(!liked);
     }
     
