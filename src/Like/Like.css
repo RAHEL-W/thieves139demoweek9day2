@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(228, 246, 240);
+}
+
+.heart{
+    color: red;
+    size: 17px;
+    margin-left: 35rem;
+ 
+
+}
+
+
+
+.cat img{
+   width: 500px;
+   height: 300px;
+   margin: 10rem  30rem  1rem 30rem;
+   
+}
